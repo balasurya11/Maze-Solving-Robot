@@ -7,5 +7,5 @@ Then, a starting and ending position of the ball is given as input. The maze is 
 
 
 Here's our result video,
-https://user-images.githubusercontent.com/64278574/172050747-9d780283-68c8-4752-a090-a754ad47b6e3.mp4
+![result](https://user-images.githubusercontent.com/64278574/172050747-9d780283-68c8-4752-a090-a754ad47b6e3.mp4)
 
