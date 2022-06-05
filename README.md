@@ -4,3 +4,5 @@ This work is done for eYantra Robotics Competition 2020-21 for the theme Niriksh
 
 This 3D model is built on Coppeliasim. A given image of a maze is generated on the modelled platform with the help of Lua scripts and Image processing techniques.
 Then, a starting and ending position of the ball is given as input. The maze is encoded as a 2D array using basic image processing techniques. The shortest path is found using BFS algorithm. The ball is guided through the path by actuation of the 4 servo motors on which the platform is mounted. 
+
+![Working Video](https://github.com/balasurya11/Maze-Solving-Robot/blob/6f4a1583b8aed01b0b969755ef7011ed9833cc35/task_4b_simulation.avi)
